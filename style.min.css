@@ -1,6 +1,6 @@
 @font-face {
     font-family: FSEX300;
-    src: url(font.ttf) format("truetype"), url(font.svg) format("svg");
+    src: url(FSEX300.ttf) format("truetype"), url(font.svg) format("svg");
     font-style: normal;
     font-weight: 400;
   }
